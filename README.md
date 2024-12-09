@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://gnometea.party)
+[**Visit our status website →**](https://status.gnometea.party)
 
 ## 📄 License
 
